@@ -56,41 +56,61 @@ Copy code
 ```bash
 git clone https://github.com/yourusername/DropShipLaunchpad.git
 2. Install Dependencies
-For the Backend
-bash
-Copy code
+```
+
+---
+
+## **For the Backend**
+
+```bash
 cd server
 npm install
-For the Frontend
-bash
-Copy code
+```
+
+---
+
+## **For the Frontend**
+
+```bash
 cd client
 npm install
-3. Set Up Environment Variables
-Create a .env file in the server folder and add your API keys for OpenAI, Facebook, Instagram, etc.
-4. Start the Application
-Backend:
-bash
-Copy code
+```
+
+---
+
+### 3. **Set Up Environment Variables**
+- Create a .env file in the server folder and add your API keys for OpenAI, Facebook, Instagram, etc.
+
+### 4. **Start the Application**
+- Backend:
+```bash
 cd server
 node index.js
-Frontend:
-bash
-Copy code
+```
+- Frontend:
+```bash
 cd client
 npm start
-⚡ Getting Started
-Sign Up: Create an account to start your journey.
-Follow the Workflow: Start with niche selection, and follow the guided steps to set up your store, generate content, and launch ads.
-Track Your Progress: Monitor your product performance and optimize your ads from the dashboard.
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+```
+---
 
-💬 Get in Touch
-If you have any questions or feedback, feel free to reach out:
+## **⚡ Getting Started**
+- **Sign Up**: Create an account to start your journey.
+- Follow the Workflow: Start with niche selection, and follow the guided steps to set up your store, generate content, and launch ads.
+- Track Your Progress: Monitor your product performance and optimize your ads from the dashboard.
 
-Email: support@dropshiplaunchpad.com
-Twitter: @DropShipLaunchpad
-Discord: Join our community on Discord for support and discussions.
-Ready to launch your dropshipping business?
-DropShipLaunchpad has everything you need to succeed! 🌟
+---
+
+## **📄 License**
+- This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+## **💬 Get in Touch**
+- If you have any questions or feedback, feel free to reach out:
+
+- **Email**: support@dropshiplaunchpad.com
+- **Twitter**: @DropShipLaunchpad
+- **Discord**: Join our community on Discord for support and discussions.
+- Ready to launch your dropshipping business?
+- DropShipLaunchpad has everything you need to succeed! 🌟
